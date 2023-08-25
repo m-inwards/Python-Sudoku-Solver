@@ -5,3 +5,7 @@ So far the solver only solves puzzles that don't require speculation about where
 
 ## Installation
 - Python 3.10 Standard Libraries
+- Streamlit
+```bash
+pip install streamlit
+```
